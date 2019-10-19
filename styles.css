@@ -1,0 +1,92 @@
+
+body{
+Background-color: powderblue;
+
+}
+
+hr{
+border: none;
+border-top: 4px dashed #f1f1f1;
+
+
+}
+h1:hover {
+font-style: italic;
+font-family: cursive;
+}
+
+a:hover{
+background-color: #b380ff;
+
+}
+
+h1 {
+color: blue;
+padding-left: 10px;
+
+}
+
+h3:hover{
+  font-style: italic;
+  font-family: inherit;
+}
+
+h3 {
+color: blue;
+padding-left: 15px;
+}
+
+img {
+border-radius: 50px;
+border-color: #66ff66;
+border-width: 5px;
+border-style: solid;
+
+}
+ul{
+padding-left: 60px;
+font-style: oblique;
+}
+.lim{
+  font-family: serif;
+  text-align: justify;
+  line-height: 20px;
+}
+ p{
+padding-left: 15px;
+font-family: sans-serif;
+
+ }
+th:hover{
+  font-family: inherit;
+}
+ .ski{
+padding-left: 10px;
+
+ }
+
+ th{
+   font-family: sans-serif;
+ }
+
+.star{
+font-family: sans-serif;
+font-size: 16px;
+line-height: 25px;
+}
+
+.Teaching{
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.submit:hover{
+  background-color: blue;
+}
+
+
+.cell{
+cellspacing = "10";
+
+}
